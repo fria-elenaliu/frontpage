@@ -196,7 +196,7 @@ img {
 	width: 100%;
 	max-width: 1280px;
 	margin: 0 auto;
-	margin-bottom: 6rem;
+	margin-bottom: 4rem;
 }
 
 @media (max-width: 30.625em) {
@@ -245,7 +245,6 @@ img {
 
 .btn-show-all {
 	font-size: 2rem;
-
 	background: var(--main-blue);
 	transition: background 0.3s ease-out;
 }
